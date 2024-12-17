@@ -1,0 +1,6 @@
+1. Primitive = Simple, Single Value
+/--/ Number, String, Boolean, Null, Undefined, Symbol, BigInt. /--/
+
+2. Non-Primitive = Complex, holds more values:
+/--/ Object, Array, Function. /--/
+
